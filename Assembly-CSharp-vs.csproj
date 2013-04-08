@@ -37,10 +37,10 @@
     <Reference Include="System.XML" />
 	<Reference Include="System.Core" />
 	<Reference Include="UnityEngine">
-	  <HintPath>D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
 	</Reference>
 	<Reference Include="UnityEditor">
-	  <HintPath>D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
@@ -49,7 +49,6 @@
      <Compile Include="Assets\DoorOpeningArea.cs" />
      <Compile Include="Assets\Lever.cs" />
      <Compile Include="Assets\LiftMove.cs" />
-     <Compile Include="Assets\TP_Camera.cs" />
      <Compile Include="Assets\ThirdPersonLook.cs" />
      <Compile Include="Assets\cubePress.cs" />
      <Compile Include="Assets\exerciseScript.cs" />
